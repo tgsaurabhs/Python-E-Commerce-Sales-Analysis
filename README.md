@@ -58,14 +58,6 @@ This project performs a comprehensive **Exploratory Data Analysis (EDA)** on an 
 
 ---
 
-## 📂 Folder Structure
-ecommerce-sales-analysis/
-├ e commerce sales.ipynb # Jupyter Notebook with all analysis steps
-├── dataset/ # Raw or processed dataset (optional)
-├── images/ # Graphs and charts (if saved)
-└── README.md # Project documentation
----
-
 ## ✅ Future Enhancements
 - Create a dashboard using Streamlit or Tableau.
 - Build predictive models to forecast future sales.
